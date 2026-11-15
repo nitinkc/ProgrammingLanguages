@@ -1,0 +1,15 @@
+[submodule "GoConcepts"]
+	path = GoConcepts
+	url = https://github.com/nitinkc/GoConcepts.git
+[submodule "typescript-learninig"]
+	path = typescript-learninig
+	url = https://github.com/nitinkc/typescript-learninig.git
+[submodule "PythonConcepts"]
+	path = PythonConcepts
+	url = https://github.com/nitinkc/PythonConcepts.git
+[submodule "JavaConcepts"]
+	path = JavaConcepts
+	url = https://github.com/nitinkc/JavaConcepts.git
+[submodule "MultithreadingLearningHub"]
+	path = MultithreadingLearningHub
+	url = https://github.com/nitinkc/MultithreadingLearningHub.git
